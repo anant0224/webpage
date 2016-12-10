@@ -1,0 +1,153 @@
+html {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-weight: 300
+}}
+
+.image {
+	width:100%;
+	margin-top: -0.25%;
+	margin: 0 auto;
+}
+
+.body {
+	font-size:20px;
+	height:100%;
+	width:80%;
+	margin: 0 auto
+}
+
+.linksTable {
+	table-layout:fixed;
+	text-align:center;
+	width:100%;
+	display:float;
+	font-size:17px;
+}
+
+#guides {
+	font-size: 17px;
+	margin-left: 0.5em;
+}
+
+.links {
+	text-decoration: none;
+}
+
+#thisPage {
+	color:#222222
+}
+
+.links:link {
+	color:#888888
+}
+
+.links:visited {
+	color:#888888
+}
+
+.links:active {
+	color:#555555
+}
+
+.links:hover {
+	color:#555555
+}
+
+div[name="contact"] {font-size:20px;margin-left:1%}
+
+#projects {font-size:20px;margin-left:1%}
+
+#interns {font-size:20px;margin-left:1%}
+
+#interestsList {
+	font-size:17px;
+	margin-top: 5%;
+}
+
+#resumeBody {
+	margin-top: 5%;
+	list-style: none;
+	font-size: 17px;
+}
+
+hr {
+	height:2px;
+	border-width:0;
+	background-color: #CCCCCC;
+}
+
+#header {
+	background-color: #EEEEEE;
+	position: fixed;
+	top: 0%;
+	left: 10%;
+	right: 10%;
+}
+
+#name {
+	margin-top: -1%;
+	margin-left: 5.4%;
+}
+
+#allContent {
+	margin-top: 20%;
+	padding-left: 17%;
+	width: 80%;
+}
+
+#homeContent {
+	height:250px;
+	width:50%;
+	background-color:transparent;
+	margin-top:-250px;
+	margin-left:25%;
+}
+
+#homePhoto {
+	height:250px;
+	width:50%;
+	background-color:transparent;
+	margin-left: 2%
+}
+
+.projectContent {
+	font-size:17px;
+}
+
+.projectTitle {
+	margin-top: 1.5em;
+	margin-bottom: 0em;
+}
+
+#contact {
+	float: left;
+}
+
+#contactTable {
+	width: 40%;
+	margin-left: 2%;
+}
+
+#academicDetails {
+	font-size:17px;
+	margin-top: 5%;
+}
+
+#contactList {
+	position: fixed;
+	bottom: 10%;
+	left: 10%;
+	right: 10%;
+}
+
+#semPerf {
+	margin: 0 auto;
+	width: 30%;
+	text-align: center;
+	border: 1px solid #999999;
+	border-collapse: collapse;
+}
+
+#tableCols {
+	background-color: #999999;
+}
